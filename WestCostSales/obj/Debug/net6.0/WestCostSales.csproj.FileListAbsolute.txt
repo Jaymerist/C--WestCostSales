@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\bin\Debug\net6.0\WestCostSales.exe
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\bin\Debug\net6.0\WestCostSales.deps.json
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\bin\Debug\net6.0\WestCostSales.runtimeconfig.json
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\bin\Debug\net6.0\WestCostSales.dll
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\bin\Debug\net6.0\WestCostSales.pdb
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.AssemblyInfo.cs
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.dll
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\refint\WestCostSales.dll
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.pdb
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\WestCostSales.genruntimeconfig.cache
+C:\Users\mkamiss1\Desktop\Programming\WestCostSales\obj\Debug\net6.0\ref\WestCostSales.dll
